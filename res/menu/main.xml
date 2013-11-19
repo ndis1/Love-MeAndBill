@@ -1,0 +1,52 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/use_comedy"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/use_comedy"/>
+    <item
+        android:id="@+id/use_tragedy"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/use_tragedy"/>
+    
+    <item
+        android:id="@+id/use_sonnets"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/use_sonnets"/>
+        
+    <item
+        android:id="@+id/clearText"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/clearText"/>
+    <item
+        android:id="@+id/source_icon"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/comedy"
+        android:title="">
+        
+    </item>
+        
+    <item
+        android:id="@+id/send_email"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/send_email"/>
+    
+    <item
+        android:id="@+id/send_sms"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/send_sms"/>
+    
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+</menu>

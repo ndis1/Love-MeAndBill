@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string-array name="comedy">
+        <item >comedyUNI.txt</item>
+        <item >comedyBIG.txt</item>
+        <item >comedyTRI.txt</item>
+        <item >comedyQUA.txt</item>
+    </string-array>
+    <string-array name="tragedy">
+        <item >tragedyUNI.txt</item>
+        <item >tragedyBIG.txt</item>
+        <item >tragedyTRI.txt</item>
+        <item >tragedyQUA.txt</item>
+    </string-array>
+    <string-array name="history">
+        <item >historyUNI.txt</item>
+        <item >historyBIG.txt</item>
+        <item >historyTRI.txt</item>
+        <item >historyQUA.txt</item>
+    </string-array>
+    <string-array name="sonnet">
+        <item >sonnetUNI.txt</item>
+        <item >sonnetBIG.txt</item>
+        <item >sonnetTRI.txt</item>
+        <item >sonnetQUA.txt</item>
+    </string-array>
+    <string-array name="n_level">
+        <item >One - Totally Random (Unigram)</item>
+        <item >Two - Not Random (Bigram)</item>
+        <item >Three - Less Random (Trigram)</item>        
+    </string-array>
+    
+</resources>
