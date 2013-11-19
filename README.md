@@ -38,3 +38,5 @@ Shakespeare considers the last word you wrote, and on trigram mode,
 the Bard considers the last two words you wrote. If Shakespeare never 
 considered what what you typed in the relevant source text, the model falls back to more random text.
 (Trigram->Bigram and Bigram->Unigram)
+
+Google Play Listing : https://play.google.com/store/apps/details?id=com.ndis.loveMeAndBill
